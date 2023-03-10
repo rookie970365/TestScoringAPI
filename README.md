@@ -49,7 +49,7 @@ $ curl -X POST -H "Content-Type: application/json" -d '{"account": "horns&hoofs"
 
 
 # Запуск
-python api.py 
+python3 api.py 
 
 *Опции*
 
@@ -62,7 +62,7 @@ PORT - номер порта для работы сервера (по умолч
 LOGPATH - путь до логфайла (по умолчанию логирование производится в stdout) 
 
 # Запуск тестов
-python api.py 
+python3 api.py 
 
 redis-server
 

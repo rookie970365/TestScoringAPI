@@ -1,4 +1,4 @@
-# pylint: disable=C0114,C0115,C0116,C0301,R0201
+# pylint: disable=C0114,C0115,C0116,C0301
 import datetime
 from pytest import mark, raises
 
